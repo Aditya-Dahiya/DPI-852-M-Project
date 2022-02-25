@@ -26,3 +26,5 @@ A Project on Data Visualization for DPI 852 M (HKS) by Hong Qu
 
 
 #### Comments?
+
+Please feel free to add in comments through Issues tab above, or [here](https://github.com/Aditya-Dahiya/DPI-852-M-Project/issues/1)
