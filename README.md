@@ -12,7 +12,7 @@ A Project on Data Visualization for DPI 852 M (HKS) by Hong Qu
 
 #### Methodology
 
-1. Extract Data from GitHub on NFHS-5 ([Jithin's code](https://github.com/jvargh7/nfhs5_factsheets/tree/main/code)) and from Open Government Data (OGD) Platform ([self code]()).
+1. Extract Data from GitHub on NFHS-5 ([Jithin's code](https://github.com/jvargh7/nfhs5_factsheets/tree/main/code)) and from Open Government Data (OGD) Platform ([self code](https://raw.githubusercontent.com/Aditya-Dahiya/DPI-852-M-Project/main/jvargh7_dataset.R)).
 2. Exploratory Data Analysis to find insights - (a) Plots of all NFHS indicators vs. each other ([Graphs here](https://github.com/Aditya-Dahiya/DPI-852-M-Project/tree/main/Plots-of-Indicators)), (b) Plots of all NFHS indicators vs. GDP of the districts ([Graphs here](https://github.com/Aditya-Dahiya/DPI-852-M-Project/tree/main/Plots-with-District-GDP)), (c) Plots of all NFHS indicators vs. GDP growth rate ([Graphs here](https://github.com/Aditya-Dahiya/DPI-852-M-Project/tree/main/Plots-vs-GDP-Growth)).
 
 #### Current Step
